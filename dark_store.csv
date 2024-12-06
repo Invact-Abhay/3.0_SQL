@@ -1,4 +1,4 @@
-customer_id,gender,age,total_orders,amount,payment_method,area,invoice_date,shopping_time,payment_status,Cashier,,,,
+customer_id,gender,age,total_orders,amount,payment_method,area,invoice_date,last_shopping_time,payment_status,Cashier,,,,
 CUST00001,Male,18,43,18278,Credit Card,Bapu Bazaar,24-03-2023,Morning,yes,BB30393,,,,
 CUST00002,Male,34,37,4453.01,Credit Card,Johari Bazaar,16-02-2023,Evening,yes,JW32473,,,,
 CUST00003,Female,38,21,6905.34,UPI,C-Scheme,02-12-2023,Afternoon,yes,CS43533,,,,
